@@ -2,4 +2,4 @@
 - 👀 I’m interested in tetris
 - 🌱 I’m currently learning math.
 
-テトリス
+テトリスが好きです
